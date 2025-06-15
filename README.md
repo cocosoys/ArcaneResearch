@@ -22,7 +22,7 @@
 
 游戏截图：
 
-![img.png](assets/img.png?t=1749971195726)
+![img.png](assets/img.png)
 
 ![img_1.png](assets/img_1.png)
 
