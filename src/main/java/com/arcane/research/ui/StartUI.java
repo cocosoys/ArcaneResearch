@@ -283,7 +283,7 @@ public class StartUI extends BaseUI {
         mainPanel.add(Box.createVerticalGlue());
 
         // 添加版本信息
-        JLabel versionLabel = new JLabel("v0.0.1 bata");
+        JLabel versionLabel = new JLabel("v0.0.1 beta");
         versionLabel.setFont(new Font("微软雅黑", Font.PLAIN, 12));
         versionLabel.setForeground(new Color(150, 150, 150));
         versionLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
